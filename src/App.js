@@ -3,7 +3,7 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 import { useState } from 'react';
 
 const style={
-  border:"2px solid RED",
+  border:"2px solid black",
   margin:15,
   padding:10,
 }
